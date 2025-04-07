@@ -34,27 +34,16 @@ This project was built with **Unreal Engine**, combining both **game development
 
 ## 🖥️ **Tech Stack**  
 - **Frontend**:  
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)  
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)  
-  ![Material UI](https://img.shields.io/badge/Material_UI-%230081CB.svg?&style=for-the-badge&logo=mui&logoColor=white)  
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)   ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)  ![Material UI](https://img.shields.io/badge/Material_UI-%230081CB.svg?&style=for-the-badge&logo=mui&logoColor=white)  
 
 - **Backend**:  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white)  
-  ![Strapi](https://img.shields.io/badge/Strapi-%232E7FF7.svg?&style=for-the-badge&logo=strapi&logoColor=white)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white)  ![Strapi](https://img.shields.io/badge/Strapi-%232E7FF7.svg?&style=for-the-badge&logo=strapi&logoColor=white)  
 
 - **Databases**:  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/SQL-%234E8CBA.svg?&style=for-the-badge&logo=sql&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-%234E8CBA.svg?&style=for-the-badge&logo=sql&logoColor=white)  
 
 - **Other Tools**:  
-  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)  
-  ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?&style=for-the-badge&logo=git&logoColor=white)  
-  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)  
-  ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?&style=for-the-badge&logo=git&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)  ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)  
 
 ---
 
