@@ -19,14 +19,20 @@ When I’m not coding, I’m on the football or cricket field, experimenting in 
 ---
 
 ## 🎮 **FYP - Game Development Project**  
-As part of my **Final Year Project (FYP)**, I developed an engaging **educational game for children** aged **Nursery to 8th grade**. This game serves as an **open-world** experience where kids can learn about **animals**, their **breeds**, and **classes**. Here's a glimpse of the game's features:
 
-- **Educational Content**: Teach children about animals of all kinds, including their species and classifications.  
-- **Village Life Simulation**: Introduce children to village life in different historical eras, including ancient times when people lived in caves.  
-- **Open-World Adventure**: Children can explore environments where they encounter **dangerous animals** in the wild.  
-- **Survival Mode**: Simulate night-time animal attacks to show how villagers defend themselves.  
+As part of my **Final Year Project (FYP)**, I developed an engaging **educational open-world game** tailored for children from **Nursery to 8th grade**. This project merges **gameplay** with **learning**, offering an immersive experience designed to educate and entertain.
 
-This project was built with **Unreal Engine**, combining both **game development** and **educational storytelling** to create an immersive learning experience for children. 🎮🦁🌿
+### 🔍 Key Features:
+- **📚 Educational Content**: Learn about animals, their breeds, and classification systems.
+- **🏕️ Village Life Simulation**: Explore historical village settings, from ancient cave dwellings to rural farming life.
+- **🌍 Open-World Adventure**: Children roam freely through dynamic environments while encountering wild animals.
+- **🌙 Survival Mode**: Experience thrilling night-time animal raids and learn how ancient villagers protected themselves.
+
+This game was developed using **Unreal Engine**, blending **storytelling**, **education**, and **interactive gameplay** into a meaningful experience for young learners.  
+
+📄 **Want to know more?**  
+The detailed project report is available **on request**. You can check it out here:  
+👉 [Click to View Report](https://drive.google.com/file/d/1Z7V6bM3Zt02qclLFg1w84V4hfEhIS6Ye/view?usp=drivesdk)
 
 ![Game Development GIF](https://media.giphy.com/media/L2KnKD2mucs4WfWVtp/giphy.gif?cid=790b761139bi70bvizr89pba3z4n0jzv1e9m7d107fb63woa&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
