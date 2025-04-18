@@ -89,7 +89,7 @@ then I’m coding my way through timelines, from cave life to open-world adventu
 If you're into tech, memes, or talking about how we can make the world a better place with code, let’s chat!  
 
 - **Email**: [sulemanidrees45@gmail.com](mailto:sulemanidrees45@gmail.com)  
-- **LinkedIn**: [Suleman Idrees](https://www.linkedin.com/in/suleman-idrees)  
+- **LinkedIn**: [Suleman Idrees]()  
 - **GitHub**: [@SulemanIdrees786](https://github.com/SulemanIdrees786)  
 - **LinkTree**: [sulemanidrees.linktree](https://linktr.ee/SulemanIdrees786)
 
