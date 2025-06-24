@@ -66,7 +66,11 @@ then I’m coding my way through timelines, from cave life to open-world adventu
 - **Most Starred Repo**: Currently building exciting projects.
 
 ### GitHub Stats (With a direct badge):
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulemanidrees786&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+### 🚀 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulemanidrees786&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
+**Most Starred Repo**: [ProjectName](https://github.com/sulemanidrees786/ProjectName) ![Stars](https://img.shields.io/github/stars/sulemanidrees786/ProjectName?style=social)
 
 **GitHub Activity Graph**  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sulemanidrees786&theme=tokyo-night&hide_border=true)
