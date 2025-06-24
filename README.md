@@ -67,8 +67,7 @@ then I’m coding my way through timelines, from cave life to open-world adventu
 
 ### GitHub Stats (With a direct badge):
 ### 🚀 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulemanidrees786&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulemanidrees786&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 **GitHub Activity Graph**  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sulemanidrees786&theme=tokyo-night&hide_border=true)
