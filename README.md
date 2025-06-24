@@ -72,6 +72,10 @@ then I’m coding my way through timelines, from cave life to open-world adventu
 **GitHub Activity Graph**  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sulemanidrees786&theme=tokyo-night&hide_border=true)
 
+<!-- Contribution Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sulemanidrees786&theme=radical)
+
+
 
 ---
 
